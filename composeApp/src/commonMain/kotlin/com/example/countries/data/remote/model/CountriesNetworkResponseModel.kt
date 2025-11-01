@@ -1,4 +1,4 @@
-package com.example.countries.data.model
+package com.example.countries.data.remote.model
 
 
 import kotlinx.serialization.SerialName
